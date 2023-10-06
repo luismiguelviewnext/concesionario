@@ -1,0 +1,6 @@
+com\curso\service\CochesServiceImpl.class
+com\curso\controller\CochesController.class
+com\curso\dao\CochesDao.class
+com\curso\model\Coches.class
+com\curso\concesionario\ConcesionarioApplication.class
+com\curso\service\CochesService.class
