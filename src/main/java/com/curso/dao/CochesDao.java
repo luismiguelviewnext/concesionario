@@ -9,6 +9,7 @@ import com.curso.model.Coches;
 
 /**
  * Interfaz de repositorio que proporciona operaciones de acceso a datos para la entidad Coches.
+ * @author Luis Miguel Albarracín Castillo
  */
 public interface CochesDao extends JpaRepository<Coches, Integer> {
     

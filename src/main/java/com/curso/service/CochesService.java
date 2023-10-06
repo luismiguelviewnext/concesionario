@@ -6,6 +6,7 @@ import com.curso.model.Coches;
 
 /**
  * Interfaz que define las operaciones CRUD para la entidad Coches.
+ * @author Luis Miguel Albarracín Castillo
  */
 public interface CochesService {
 

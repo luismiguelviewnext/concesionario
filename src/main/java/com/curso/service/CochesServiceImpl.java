@@ -11,6 +11,7 @@ import com.curso.model.Coches;
 /**
  * Implementación de la interfaz CochesService que proporciona operaciones CRUD
  * para la entidad Coches.
+ * @author Luis Miguel Albarracín Castillo
  */
 @Service
 public class CochesServiceImpl implements CochesService {

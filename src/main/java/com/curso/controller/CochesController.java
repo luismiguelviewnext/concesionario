@@ -18,6 +18,7 @@ import com.curso.service.CochesService;
 
 /**
  * Controlador que maneja las operaciones relacionadas con los coches.
+ * @author Luis Miguel Albarracín Castillo
  */
 @RestController
 public class CochesController {

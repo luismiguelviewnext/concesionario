@@ -7,6 +7,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
 /**
  * Clase principal que inicia la aplicación del concesionario.
+ * @author Luis Miguel Albarracín Castillo
  */
 @EntityScan(basePackages = {"com.curso.model"})
 @EnableJpaRepositories(basePackages = {"com.curso.dao"})
